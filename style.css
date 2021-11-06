@@ -1,0 +1,33 @@
+body{
+    background-color:#96A6A9  ;
+}
+h1{
+    text-align: center;
+    color:#245864;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.happy{
+    width: 400px;
+
+}
+.sad{
+    width: 400px;
+}
+h2{
+    color:#653C78 ;
+}
+.a{
+    color: bisque;
+}
+.b{
+    color: bisque;
+}
+.c{
+    color: bisque;
+}
+.myinfo{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.IMDB{
+    color: chocolate;
+}
